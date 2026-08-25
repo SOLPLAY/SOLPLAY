@@ -16,7 +16,7 @@ Currently, I am pursuing my postgraduate studies in Data Analytics at NIT Tiruch
 My public GitHub repository count is lean by design, as my professional work is proprietary. However, my continuous learning is thoroughly documented. 
 I hold multiple certifications such as Al Engineer Core Track: LLM Engineering, RAG, QLORA, Agents; Cloud Computing, Human-Computer Interaction, etc. 
 
-**👉 To see my full professional history, certifications, and academic milestones, please connect with me on [LinkedIn](#).**
+**👉 To see my full professional history, certifications, and academic milestones, please connect with me on [LinkedIn](https://www.linkedin.com/in/theshubhamsavani).**
 
 ### 🛠️ Tech Stack & Tools
 
@@ -35,7 +35,7 @@ I hold multiple certifications such as Al Engineer Core Track: LLM Engineering, 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📫 Let's Connect
-- [LinkedIn](www.linkedin.com/in/theshubhamsavani) - *Best place to see my complete professional footprint.*
+- [LinkedIn](https://www.linkedin.com/in/theshubhamsavani) - *Best place to see my complete professional footprint.*
 - [Email](mailto:shubhamsavani5122000@gmail.com)
 
   
