@@ -35,7 +35,6 @@ I hold multiple certifications such as Al Engineer Core Track: LLM Engineering, 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/theshubhamsavani) - *Best place to see my complete professional footprint.*
-- [Email](mailto:shubhamsavani5122000@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theshubhamsavani)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamsavani5122000@gmail.com)
   
