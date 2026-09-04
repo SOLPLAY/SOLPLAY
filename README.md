@@ -7,7 +7,7 @@ I am a Computer Science Engineer with a deep appreciation for traditional CS fun
 Currently, I am pursuing my postgraduate studies in Data Analytics at NIT Tiruchirappalli, building on a foundation of rigorous academic achievements (including securing a GATE rank [AIR 629] ) and hands-on enterprise experience.
 
 ### 🚀 About My Journey
-- 💼 **Industry Background:** Spent 2 years as a Software Engineer in R&D department building closed-source, enterprise-grade applications. I know what it takes to write production-ready, maintainable code.
+- 💼 **Industry Background:** Spent 2+ years as a Software Engineer in R&D department building closed-source, enterprise-grade applications. I know what it takes to write production-ready, maintainable code.
 - 🎓 **Current Focus:** Pursuing my M.Tech, diving deep into Artificial Intelligence, advanced algorithms, and Data Science. 
 - 🧠 **Fundamentals:** Strong grip on core CS concepts, from operating systems (Windows/Linux) to complex data structures and system architecture.
 - 🌍 **Adaptability:** Having lived away from my hometown for 14 years, I thrive in dynamic environments and collaborate easily with diverse teams.
